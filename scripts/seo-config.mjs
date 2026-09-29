@@ -78,6 +78,7 @@ export const PAGES = [
 export const SITEMAP_EXTRA = [
   { path: "/privacy",       file: "privacy.html",       priority: 0.3 },
   { path: "/terms",         file: "terms.html",         priority: 0.3 },
+  { path: "/support",       file: "support.html",       priority: 0.3 },
   { path: "/data-deletion", file: "data-deletion.html", priority: 0.3 },
 ];
 
