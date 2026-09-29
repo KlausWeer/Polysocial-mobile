@@ -8,3 +8,4 @@ build/*.png
 build/measure.json
 build/asset-catalog.json
 build/page.instrumented.html
+resources/
